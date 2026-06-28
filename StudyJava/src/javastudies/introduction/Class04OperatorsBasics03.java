@@ -40,8 +40,8 @@ public class Class04OperatorsBasics03 {
 
         int contador = 0;
         contador += 1; // contador = contador + 1;
-        contador ++;
-        contador --;
+        contador++;
+        contador--;
         System.out.println(contador);
 
     }
