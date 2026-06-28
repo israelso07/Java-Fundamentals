@@ -16,6 +16,6 @@ public class Class03TypesPrimitivesExercise {
         String dateReceviedSalary = "26/06/2026";
         double salary = 1429.70;
 
-        System.out.println("I "+name+", living in the address "+address+ ", confirm what I received the salary of $"+salary+ ", in the date "+dateReceviedSalary+".");
+        System.out.println("I " + name + ", living in the address " + address + ", confirm what I received the salary of $" + salary + ", in the date " + dateReceviedSalary + ".");
     }
 }

@@ -1,4 +1,4 @@
-package javaexercises.practice.operators;
+package javaexercises.practice;
 
 public class Operators {
     public static void main(String[] args) {

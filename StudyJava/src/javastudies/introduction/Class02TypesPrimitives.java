@@ -14,13 +14,13 @@ public class Class02TypesPrimitives {
         boolean falso = false;
         char character = 'M';
 
-        System.out.println("he's age is "+age+" years old");
-        System.out.println("my salary is "+ salaryDouble);
-        System.out.println("my pretension of salary is "+ salaryFloat);
-        System.out.println("my number is "+bigNumber);
-        System.out.println("my age is "+ ageByte);
-        System.out.println("she's age is "+ ageShort);
-        System.out.println("hi, my name is "+name);
+        System.out.println("he's age is " + age + " years old");
+        System.out.println("my salary is " + salaryDouble);
+        System.out.println("my pretension of salary is " + salaryFloat);
+        System.out.println("my number is " + bigNumber);
+        System.out.println("my age is " + ageByte);
+        System.out.println("she's age is " + ageShort);
+        System.out.println("hi, my name is " + name);
         System.out.println(verdadeiro);
         System.out.println(falso);
         System.out.println(character);

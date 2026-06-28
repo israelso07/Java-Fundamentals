@@ -12,11 +12,11 @@ public class Class04OperatorsBasics02 {
         boolean isTenIsEqualsOrGreaterTwenty = 10 >= 20;
         boolean isTenIsDifferentOrEqualsTwenty = 10 != 20;
 
-        System.out.println("isTenGreaterThanTwenty? "+isTenGreaterThanTwenty);
-        System.out.println("isTenLessThanTwenty? "+isTenLessThanTwenty);
-        System.out.println("isTenEqualsTwenty? "+isTenEqualsTwenty);
-        System.out.println("isTenIsEqualsOrLessTwenty? "+isTenIsEqualsOrLessTwenty);
-        System.out.println("isTenIsEqualsOrGreaterTwenty? "+isTenIsEqualsOrGreaterTwenty);
-        System.out.println("isTenIsDifferentOrEqualsTwenty? "+isTenIsDifferentOrEqualsTwenty);
+        System.out.println("isTenGreaterThanTwenty? " + isTenGreaterThanTwenty);
+        System.out.println("isTenLessThanTwenty? " + isTenLessThanTwenty);
+        System.out.println("isTenEqualsTwenty? " + isTenEqualsTwenty);
+        System.out.println("isTenIsEqualsOrLessTwenty? " + isTenIsEqualsOrLessTwenty);
+        System.out.println("isTenIsEqualsOrGreaterTwenty? " + isTenIsEqualsOrGreaterTwenty);
+        System.out.println("isTenIsDifferentOrEqualsTwenty? " + isTenIsDifferentOrEqualsTwenty);
     }
 }
